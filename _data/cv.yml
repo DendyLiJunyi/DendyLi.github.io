@@ -41,7 +41,7 @@ sections:
     entries:
       - title: National University of Singapore
         subtitle: M.Sc. in Mathematics (graduated)
-        # Started Sep 2023; add the date range once the graduation date is supplied.
+        date: Aug 2024 – Jul 2026
         location: Singapore
         # details:
         #   - "Thesis: TODO — add title"     # TODO: thesis title
@@ -64,11 +64,11 @@ sections:
 
       - title: Research Intern — Celia Innovation Product
         subtitle: Huawei Singapore Research Center
-        date: Mar 2025 – Present            # TODO: end date if it has ended
+        date: Mar 2025 – Aug 2025
         location: Singapore
         details:
-          - Developing a Lean-based lemma library for Chinese Gaokao mathematics (sequences and calculus) to support structured formalization of exam problems.
-          - Designing an LLM-aided automated prover for Gaokao-style problems, integrating retrieval-augmented generation (RAG) with Lean's formalization pipeline to improve deductive accuracy.
+          - Developed a Lean-based lemma library for Chinese Gaokao mathematics (sequences and calculus) to support structured formalization of exam problems.
+          - Designed an LLM-aided automated prover for Gaokao-style problems, integrating retrieval-augmented generation (RAG) with Lean's formalization pipeline to improve deductive accuracy.
 
       - title: OPLSS 2026 — Oregon Programming Languages Summer School
         subtitle: University of Oregon
