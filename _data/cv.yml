@@ -10,13 +10,16 @@
 
 # ---- Header ----------------------------------------------------------------
 name: Junyi Li
-tagline: M.Sc. Mathematics @ NUS · type theory · functional programming · proof assistants
+tagline: NUS M.Sc. Mathematics graduate · cryptography · functional programming · formal methods
 
 summary: >-
-  Master's student at the National University of Singapore. A nerd who loves
-  Emacs and mathematics — interested in type theory, functional programming,
-  formalizing mathematics in proof assistants, and picking up new things
-  whenever the need arises.
+  I’m a graduate of the National University of Singapore with an M.Sc. in
+  Mathematics. I’m excited about making everything that happens in the digital
+  world more private, secure, and trustworthy. Towards this goal, I combine ideas
+  from cryptography—especially zero-knowledge proofs and zk-SNARKs—with functional
+  programming and formal methods. I’m particularly interested in the full stack
+  of programmable cryptosystems, from their mathematical foundations and formal
+  verification to their implementation and applications in blockchains.
 
 # Contact line under the name. Delete any you don't want; add more freely.
 contacts:
@@ -37,8 +40,8 @@ sections:
   - title: Education
     entries:
       - title: National University of Singapore
-        subtitle: M.Sc. in Mathematics
-        date: Sep 2023 – Present            # TODO: expected graduation date
+        subtitle: M.Sc. in Mathematics (graduated)
+        # Started Sep 2023; add the date range once the graduation date is supplied.
         location: Singapore
         # details:
         #   - "Thesis: TODO — add title"     # TODO: thesis title
@@ -50,6 +53,12 @@ sections:
 
   - title: Functional Programming & Formalization
     entries:
+      - title: Lean Project
+        subtitle: University of Edinburgh
+        location: Edinburgh, United Kingdom
+        details:
+          - Focused on a small Lean program.
+
       - title: Research Intern — Celia Innovation Product
         subtitle: Huawei Singapore Research Center
         date: Mar 2025 – Present            # TODO: end date if it has ended
