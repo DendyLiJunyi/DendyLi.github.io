@@ -53,11 +53,14 @@ sections:
 
   - title: Functional Programming & Formalization
     entries:
-      - title: Lean Project
+      - title: LeanHammer — SMT-based Proof Automation in Lean 4
         subtitle: University of Edinburgh
+        date: Sep 2025 – Feb 2026
         location: Edinburgh, United Kingdom
+        url: https://github.com/DendyLiJunyi/LeanHammer
         details:
-          - Focused on a small Lean program.
+          - Developed a Lean 4 tactic integrating premise selection, goal-driven monomorphization, and SMT-LIB translation with Z3 and cvc5.
+          - Integrated partial proof reconstruction with Duper, using SMT unsatisfiable cores to guide the generation of Lean proof terms.
 
       - title: Research Intern — Celia Innovation Product
         subtitle: Huawei Singapore Research Center
